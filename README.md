@@ -1,4 +1,4 @@
-# OIBSIP_Python_Task3
+# OIBSIP_webdevlopment_Task3
 📖 Objective
 The goal of this project is to create a user‑friendly temperature converter web page using pure HTML, CSS, and JavaScript. It enables users to input a temperature and convert it seamlessly between Celsius, Fahrenheit, and Kelvin.
 
